@@ -2,6 +2,10 @@ AXEBOUND
 Every throw comes back. So do you.
 
 AXEBOUND is a top-down pixel-art action game made in Godot for the Bounce Back theme. Fight through five maps, break the guardian seals, and face the Stormscale Dragon with a returning axe.
+
+<img width="1500" height="1190" alt="image" src="https://github.com/user-attachments/assets/6f867906-b92c-46fe-b3b7-088b854bf8cf" />
+
+
 Play
 Open the AXEBOUND page on itch.io and click Run game. Once the title screen appears, select Start run. The game uses a keyboard and mouse.
 Input	Action
